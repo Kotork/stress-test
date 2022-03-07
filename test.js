@@ -1,7 +1,7 @@
 const axios = require('axios')
 
 // URL to be testes
-const url = "https://career-zoom.herokuapp.com?email=teste@dominio.pt&lang=pt-PT&name=Ricardo"
+const url = "https://url.com"
 // Number of call to be made
 const calls = 1000;
 
